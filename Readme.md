@@ -50,7 +50,7 @@ Go to your repository settings:
 The workflow file is located at:
 
 ```
-.github/workflows/test-and-notify.yml
+.github/workflows/deploy.yml
 ```
 
 This workflow:
