@@ -1,7 +1,7 @@
 import unittest
 from cool_function import CoolClass
 
-class TestCalculator(unittest.TestCase):
+class TestCoolClass(unittest.TestCase):
     def setUp(self):
         """Runs before each test method"""
         self.cool_instance = CoolClass()
